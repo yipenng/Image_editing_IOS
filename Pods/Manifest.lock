@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.4.4)
+  - AlamofireImage (4.2.0):
+    - Alamofire (~> 5.4)
+  - PixelSDK (11.1.0):
+    - PixelSDK-GPUImage3 (~> 3.0)
+  - PixelSDK-GPUImage3 (3.1.0)
+
+DEPENDENCIES:
+  - AlamofireImage
+  - PixelSDK
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - PixelSDK
+    - PixelSDK-GPUImage3
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  AlamofireImage: 34a2d90b0e5fe6a5605f85ae4b7b01e784c60192
+  PixelSDK: d1526f78f90cb92fab12acfcb4b7a43d552dd35f
+  PixelSDK-GPUImage3: 4036d2a6188fa0afbbf99ede47f0520c9a5df3f9
+
+PODFILE CHECKSUM: f56ac98011a037dea1400e1599d033ef372d7eec
+
+COCOAPODS: 1.11.0
